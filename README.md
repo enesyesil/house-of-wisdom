@@ -1,5 +1,7 @@
 # 🏛️ House of Wisdom
 
+![House of Wisdom Banner](./banner.png)
+
 Welcome to my digital library — a living archive of everything I'm learning in AI, Cloud Infrastructure, System Design, and beyond.
 
 This is a “learn in public” lab, where I break down complex topics as I study them.
