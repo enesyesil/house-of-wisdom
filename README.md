@@ -34,7 +34,7 @@ Personal logs as I explore the unknown, reflect, and reframe my understanding.
 
 ## Why This Exists
 
-Inspired by the original House of Wisdom in Baghdad, this repo is my attempt to blend:
+Inspired by the original House of Wisdom, this repo is my attempt to blend:
 - Technical precision,
 - Historical awareness,
 - And philosophical inquiry.
