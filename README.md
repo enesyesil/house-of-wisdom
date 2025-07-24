@@ -23,7 +23,7 @@ Core computer science principles — from algorithms to memory.
 ### `cloud-systems-ai/`
 Modern infrastructure and applied intelligence — practical, hands-on topics.
 
-### `philosophy-of-computing/`
+### `philosophy-and-computing/`
 Deep questions behind what we build:
 - What is computation?
 - Is software language?
