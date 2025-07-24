@@ -28,6 +28,8 @@ Deep questions behind what we build:
 - What is computation?
 - Is software language?
 - What is abstraction really?
+- Can machines think?
+- Pattern Formation 
 
 ### `learn-journal/`
 Personal logs as I explore the unknown, reflect, and reframe my understanding.
